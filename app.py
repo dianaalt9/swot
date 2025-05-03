@@ -174,3 +174,4 @@ def build_charts(n_clicks, names, rents, costs, areas, percents, expenses, growt
 
 if __name__ == '__main__':
     app.run(debug=True)
+server = app.server
